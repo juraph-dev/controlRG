@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACFR Planning and Control Reading Group</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ACFR Planning and Control Reading Group</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>msom0518@sydney.edu.au (Michael Somerfield)</managingEditor>
+    <webMaster>msom0518@sydney.edu.au (Michael Somerfield)</webMaster>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nov 2024 - A bit of everything</title>
+      <link>http://localhost:1313/previous-talks/nov-24-talks/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><author>msom0518@sydney.edu.au (Michael Somerfield)</author>
+      <guid>http://localhost:1313/previous-talks/nov-24-talks/</guid>
+      <description>&lt;p&gt;2024-10-11 - Planning and control, the intersections - Michael&lt;/p&gt;&#xA;&lt;p&gt;2024-10-15 - SnakeBot - Tara&lt;/p&gt;&#xA;&lt;p&gt;2024-10-22 - Hamiltonian Neural Networks - Johnny&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Oct 2024 - Nonlinear control</title>
+      <link>http://localhost:1313/previous-talks/oct-24-talks/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><author>msom0518@sydney.edu.au (Michael Somerfield)</author>
+      <guid>http://localhost:1313/previous-talks/oct-24-talks/</guid>
+      <description>&lt;p&gt;2024-10-11 - Contraction - Nic and Ray&lt;/p&gt;&#xA;&lt;p&gt;2024-10-18 - RENs - Nic and Ray&lt;/p&gt;&#xA;&lt;p&gt;2024-10-25 - PLnets - Nic and Ray&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sept 2024</title>
+      <link>http://localhost:1313/previous-talks/sep-24-talks/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><author>msom0518@sydney.edu.au (Michael Somerfield)</author>
+      <guid>http://localhost:1313/previous-talks/sep-24-talks/</guid>
+      <description>&lt;p&gt;2024-10-18 - PLnets - Ruiguang wang&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About the Reading Group</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>msom0518@sydney.edu.au (Michael Somerfield)</author>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;This website hosts presently and previously scheduled discussions for the&#xA;planning and control group, a student run weekly discussion on planning and&#xA;control. The content we cover varies considerably depending on interest, varying&#xA;from research papers, results from conferences, or anything that someone finds&#xA;novel enough to present.&lt;/p&gt;&#xA;&lt;p&gt;Workload depending, we meet weekly on Fridays, 11am at J04 at the Australian&#xA;Centre For Robotics (ACFR), University of Sydney. These meetings, while mostly&#xA;in-person, have a zoom meeting alongside them allowing for remote participation.&#xA;If you&amp;rsquo;d like to participate in these meetings, please let us know!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Subscribe to our mailing list!</title>
+      <link>http://localhost:1313/page/subscribe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>msom0518@sydney.edu.au (Michael Somerfield)</author>
+      <guid>http://localhost:1313/page/subscribe/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;d like to get updated on what talks are scheduled, you can request to &lt;a href=&#34;https://lists.acfr.usyd.edu.au/postorius/lists/pacrg.acfr.usyd.edu.au/&#34;&gt;subscribe to our mailing list&lt;/a&gt;. Emails will be sent weekly with what our planned topic will be for the week, as well as links to any papers that should be read ahead of time.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

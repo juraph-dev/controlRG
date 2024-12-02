@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RENS on ACFR Planning and Control Reading Group</title>
+    <link>http://localhost:1313/tags/rens/</link>
+    <description>Recent content in RENS on ACFR Planning and Control Reading Group</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>msom0518@sydney.edu.au (Michael Somerfield)</managingEditor>
+    <webMaster>msom0518@sydney.edu.au (Michael Somerfield)</webMaster>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oct 2024 - Nonlinear control</title>
+      <link>http://localhost:1313/previous-talks/oct-24-talks/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><author>msom0518@sydney.edu.au (Michael Somerfield)</author>
+      <guid>http://localhost:1313/previous-talks/oct-24-talks/</guid>
+      <description>&lt;p&gt;2024-10-11 - Contraction - Nic and Ray&lt;/p&gt;&#xA;&lt;p&gt;2024-10-18 - RENs - Nic and Ray&lt;/p&gt;&#xA;&lt;p&gt;2024-10-25 - PLnets - Nic and Ray&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
