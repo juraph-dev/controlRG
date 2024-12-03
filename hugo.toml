@@ -1,4 +1,4 @@
-baseurl = "https://juraph-dev.github.io/controlRG/"
+baseurl = "https://.github.io"
 DefaultContentLanguage = "en"
 title = "ACFR Planning and Control Reading Group"
 # Using theme as git submodule 
