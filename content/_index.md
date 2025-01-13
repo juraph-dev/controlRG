@@ -2,5 +2,8 @@
 title: ARIAM Planning and Control Reading Group
 comments: false
 ---
-## Next scheduled talk
-2024-11-08 - Michael - Somehow finding a way to once again ramble about GCS
+# Schedule 
+## Cassowary January
+2025-01-17 - Michael - Riemannian Geometry
+
+Birdy-First of January - Damian - Cassie Literature review 

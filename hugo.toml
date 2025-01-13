@@ -19,7 +19,7 @@ pygmentsCodefencesGuessSyntax = true
     # id = "XXX"
 
 [Params]
- homeTitle = "ACFR Planning and Control Reading Group" # Set a different text for the header on the home page
+ homeTitle = "Planning and Control Reading Group" # Set a different text for the header on the home page
   # subtitle = "Weekly Discussions on Plann"
   mainSections = ["post","posts"]
   logo = "img/pacrg-logo.png" # Expecting square dimensions
