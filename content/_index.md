@@ -5,6 +5,12 @@ comments: false
 # Schedule 
 ## Feedback February
 
+
+#### 2025-02-14 - Dechuan Liu - Review of interesting topics covered at RVSS
+- https://arxiv.org/abs/2303.04137
+- https://arxiv.org/abs/2501.19050
+- https://arxiv.org/abs/2403.19243
+
 #### 2025-02-07 - Damian Abood - Virtual Constraints and Hybrid Zero Dynamics
 - https://arxiv.org/abs/1706.01127
 
