@@ -5,6 +5,11 @@ comments: false
 # Schedule 
 ## Feedback February
 
+#### 2025-02-28 - Yurui Zhang
+- Flow Matching - Details incoming
+
+#### 2025-02-21 - Nic Barbara - Introduction to the Youla Parameterisation (Whiteboard session)
+- John Doyle's Phd thesis - https://www.proquest.com/docview/303332567/?sourcetype=Dissertations%20&%20Theses
 
 #### 2025-02-14 - Dechuan Liu - Review of interesting topics covered at RVSS
 - https://arxiv.org/abs/2303.04137
