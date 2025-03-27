@@ -7,7 +7,7 @@ tags: [Feedback Linearisation, Hybrid Zero Dynamics]
 
 
 ##### 2025-02-28 - Michael Somerfield - Agile Maneuvers in legged Robotics: A Predictive Control Approach 
-- - https://arxiv.org/abs/2203.07554
+- https://arxiv.org/abs/2203.07554
 
 ##### 2025-02-21 - Nic Barbara - Introduction to the Youla Parameterisation (Whiteboard session)
 - John Doyle's Phd thesis - https://www.proquest.com/docview/303332567/?sourcetype=Dissertations%20&%20Theses
