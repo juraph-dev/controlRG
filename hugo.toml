@@ -49,12 +49,12 @@ pygmentsCodefencesGuessSyntax = true
 #  position = "center top"
 [[Params.bigimg]]
  src = "img/tara_traj_opt.png"
- desc = "Tara's Centroidal Motion and Footstep Planning"
+ desc = "Tara's Centroidal Motion and Footstep Planning - https://arxiv.org/abs/2409.09939"
 
 [Params.author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Michael Somerfield"
-  website = "juraph.com"
+  website = "https://juraph.com"
   email = "msom0518@sydney.edu.au"
 
 [[menu.main]]
