@@ -13,7 +13,6 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 
 [Services]
-  [Services.Disqus]
     # Shortname = "XXX"
   [Services.googleAnalytics]
     # id = "XXX"
