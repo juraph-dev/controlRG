@@ -1,6 +1,6 @@
 baseurl = "https://.github.io"
 DefaultContentLanguage = "en"
-title = "ACFR Planning and Control Reading Group"
+title = "ARIAM Planning and Control Reading Group"
 # Using theme as git submodule 
 theme = "beautifulhugo"
 # Or when using theme as hugo module
