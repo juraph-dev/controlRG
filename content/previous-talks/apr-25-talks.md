@@ -1,8 +1,8 @@
 ---
-title: Feb 2025 - Feedback Febuary
+title: April 2025 - Math-pril
 subtitle: Back to basics
 date: 2025-04-01
-tags: [Feedback Linearisation, Hybrid Zero Dynamics]
+tags: [Lie Theory, State Estimation]
 ---
 
 #### 2025-04-01 - Sepehr Saryazdi
